@@ -87,7 +87,7 @@ msgstr "Producto"
 #: code:addons/l10n_es_pos/static/src/xml/pos.xml:41
 #, python-format
 msgid "Qty"
-msgstr "Cantidad"
+msgstr "Cant."
 
 #. module: l10n_es_pos
 #: model:ir.model,name:l10n_es_pos.model_ir_sequence
